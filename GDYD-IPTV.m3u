@@ -1,10 +1,8 @@
 #EXTM3U name="CMCC-iptv" 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-23/d1db76fe-8f2f-47c3-b1dd-7245ce6755b2.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000329/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
-http://192.168.10.1:7088/udp/239.10.0.198:1025
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-08-31/517d98c2-7413-405e-8145-62b1733f840d.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000197/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
-http://192.168.10.1:7088/udp/239.10.0.207:1025
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-08-31/a3f781bc-7405-441b-a9a1-5cef3f0d3acd.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000104/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
 http://192.168.10.1:7088/udp/239.10.0.114:1025
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-08-31/517d98c2-7413-405e-8145-62b1733f840d.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000197/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
+http://192.168.10.1:7088/udp/239.10.0.207:1025
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-08-31/b25f0aee-49f4-4bed-8866-143b1eff7253.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000028/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-3综艺
 http://192.168.10.1:7088/udp/239.10.0.101:1025
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4高清" tvg-logo="http://183.235.16.92:8081/pics/category/202006/17/2020061709441670594298.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000016/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-4中文国际
@@ -27,6 +25,10 @@ http://192.168.10.1:7088/udp/239.10.0.210:1025
 http://192.168.10.1:7088/udp/239.11.0.24:1025
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12高清" tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315525886902273.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000201/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-12社会与法
 http://192.168.10.1:7088/udp/239.10.0.211:1025
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-23/d1db76fe-8f2f-47c3-b1dd-7245ce6755b2.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000329/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
+http://192.168.10.1:7088/udp/239.10.0.198:1025
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV-14少儿高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000066.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000202/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="少儿",CCTV-14少儿高清
+http://192.168.10.1:7088/udp/239.10.0.212:1025
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15高清" tvg-logo="http://183.235.16.92:8081/pics/category/202001/06/2020010615515688034238.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000277/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视",CCTV-15音乐
 http://192.168.10.1:7088/udp/239.11.0.25:1025
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052021102999000001.png" group-title="央视",CCTV-16奥林匹克
@@ -93,8 +95,6 @@ http://192.168.10.1:7088/udp/239.11.0.59:1025
 http://192.168.10.1:7088/udp/239.11.0.60:1025
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000005.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000313/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="央视特色",高尔夫网球高清
 http://192.168.10.1:7088/udp/239.11.0.61:1025
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV-14少儿高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000066.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000202/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="少儿",CCTV-14少儿高清
-http://192.168.10.1:7088/udp/239.10.0.212:1025
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-09-07/0b4cdab5-535a-49cb-97d6-52b3e3e8470e.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000328/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="少儿",广东少儿高清
 http://192.168.10.1:7088/udp/239.11.0.81:1025
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通高清" tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2023-09-07/77cfcb9a-d7fb-4d83-8ef5-ddcf3c8c9a5d.png" catchup="default" catchup-source="http://183.235.162.80:6610/190000002005/ch000000000000335/index.m3u8?starttime=${utc:yyyyMMddHHmmss}&endtime=${utcend:yyyyMMddHHmmss}" group-title="少儿",嘉佳卡通高清
